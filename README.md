@@ -1,7 +1,7 @@
 # Calculators
-I was very bored so I made calculators in a bunch of languages :D
-
-FYI, not supposed to be good code. It's just made to work.
+Editors used:
+- Visual Studio Community 2019 - 16.10.0
+- IntelliJ IDEA 2021.2
 
 - C# : https://github.com/fchb1239/Calculators/blob/main/C%23/Calculator/Calculator/Program.cs
 - C++ : https://github.com/fchb1239/Calculators/blob/main/C%2B%2B/Calculator/Calculator/Calculator.cpp
