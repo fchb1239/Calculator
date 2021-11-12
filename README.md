@@ -1,5 +1,5 @@
 # Calculators
-All of them are probably shit
+Shitty code lmao
 
 
 Editors used:
